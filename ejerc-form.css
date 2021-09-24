@@ -1,0 +1,22 @@
+body{
+    background-image: url("https://images.freeimages.com/images/premium/previews/4831/4831807-admission-tickets-background.jpg");
+}
+form{
+    background-color: rgb(8, 51, 92);
+    color:white;
+    height: 300px;
+    width: 450px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 25px;
+    border: white ;
+}
+h1{
+    font-size: 40px;
+    padding-top: 15px;
+}
+h1, h2{
+    background-color: rgb(8, 51, 92);
+    color: white;
+    text-align: center;
+}
